@@ -1,0 +1,5 @@
+{
+  "name": "libsql",
+  "version": "bun:sqlite",
+  "lib": "index.cjs"
+}
